@@ -14,9 +14,7 @@ To create a digital menu experience that is:
 - [Figma](https://figma.com) – Used for full UI/UX design of the restaurant menu screens.
 
 ## 🎬 Demo
-https://github.com/YourUsername/YourRepoName/assets/your-asset-id/your-video.mp4  
-*(Replace with actual GitHub-hosted asset path or external link)*
-
+https://github.com/amohammedali/CodSoft-Task3-food-Restaurent-page/blob/main/TASK3%20-%20Restaurant%20menu%20-%20Google%20Chrome%202025-07-26%2006-57-00.mp4
 
 ## 💡 UX Design Focus
 - 🧠 **User Engagement** – Designed for smooth browsing and quick decision-making
